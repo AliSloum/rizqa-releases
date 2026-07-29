@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.ali.rizqa",
+  "versionName": "1.9.0",
+  "versionCode": 12,
+  "minimumSupportedVersionCode": 11,
+  "mandatory": false,
+  "publishedAt": "2026-08-05T12:00:00Z",
+  "apkUrl": "https://github.com/AliSloum/rizqa-releases/releases/download/V2.0.1/Rizqa-2.0.1+2015-release.apk",
+  "sha256": "38AA81C2A55E3D7E2AC7C522009FCE91C30E38EE0AB5E049E185A279110A0941",
+  "sizeBytes": 86771552,
+  "notesAr": [
+    "إضافة نظام التحديثات",
+    "تحسين أداء التطبيق",
+    "إصلاح بعض الأخطاء"
+  ],
+}
