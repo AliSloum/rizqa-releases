@@ -1,17 +1,5 @@
 {
   "schemaVersion": 1,
-  "packageName": "com.ali.rizqa",
-  "versionName": "2.0.1",
-  "versionCode": 12,
-  "minimumSupportedVersionCode": 11,
-  "mandatory": false,
-  "publishedAt": "2026-08-05T12:00:00Z",
-  "apkUrl": "https://github.com/AliSloum/rizqa-releases/releases/download/V2.0.1/Rizqa-2.0.1+2015-release.apk",
-  "sha256": "38AA81C2A55E3D7E2AC7C522009FCE91C30E38EE0AB5E049E185A279110A0941",
-  "sizeBytes": 86771552,
-  "notesAr": [
-    "إضافة نظام التحديثات",
-    "تحسين أداء التطبيق",
-    "إصلاح بعض الأخطاء"
-  ],
+  "payload": "eyJwYWNrYWdlTmFtZSI6ImNvbS5hbGkucml6cWEiLCJ2ZXJzaW9uTmFtZSI6IjIuMS4wIiwidmVyc2lvbkNvZGUiOjIwMTcsIm1pbmltdW1TdXBwb3J0ZWRWZXJzaW9uQ29kZSI6MjAxNiwibWFuZGF0b3J5IjpmYWxzZSwicHVibGlzaGVkQXQiOiIyMDI2LTA3LTI5VDE1OjUyOjA1LjAwMFoiLCJhcGtVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vQWxpU2xvdW0vcml6cWEtcmVsZWFzZXMvcmVsZWFzZXMvZG93bmxvYWQvVjIuMS4wL1JpenFhLTIuMS4wKzIwMTctcmVsZWFzZS5hcGsiLCJzaGEyNTYiOiIzMDc4MjU2ODMxYTQzNTVlYThkYTRjZTMxNjdiNmUxM2Y0MGQyMzFjODM1NDA5Yzg3MTQ2ZGY1NTJjZDQyNTU3Iiwic2l6ZUJ5dGVzIjo4NzM5NTc4NCwibm90ZXNBciI6WyLYpdi22KfZgdipINmG2LjYp9mFINiq2K3Yr9mK2KvYp9iqINii2YXZhiDZiNmF2YjZgti5INmF2YYg2K_Yp9iu2YQg2LHYstmC2KkiLCLYpdi22KfZgdipINin2YTYr9mK2YYg2KfZhNiz2KfYqNmCINmE2YTYudmF2YrZhCDZhdi5INin2YTZhdmE2KfYrdi42KfYqiDZiNiz2KzZhCDYp9mE2K_Zgdi52KfYqiIsItil2LjZh9in2LEg2KfZhNiv2YHYudin2Kog2KfZhNij2YjZhNmK2Kkg2YTZhNmB2YjYp9iq2YrYsSDYp9mE2KLYrNmE2Kkg2YHZiiDYp9mE2LPYrNmE2KfYqiIsItin2YTYrdmB2KfYuCDYudmE2Ykg2YLYp9i52K_YqSDYp9mE2KjZitin2YbYp9iqINmI2KfZhNis2YTYs9ipINmI2KfZhNiq2LHYrtmK2LUg2LnZhtivINin2YTYqtit2K_ZitirIl19",
+  "signature": "RSOBCBUUnrocMpostKx_LOIXQsXxmRmhu56pqzuL7omorb-MMvzUeMzYsRXEP-lxFNwXfZfkhuNSGiQUh3BoAw"
 }
